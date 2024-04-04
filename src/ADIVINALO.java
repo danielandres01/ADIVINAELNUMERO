@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class JUEGO {
+public class ADIVINALO {
     public static void main(String[] args) {
         Scanner entrada= new Scanner(System.in);
         int numero =0, n ;
