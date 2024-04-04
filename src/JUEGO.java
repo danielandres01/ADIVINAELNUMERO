@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class JUEGO {
     public static void main(String[] args) {
         Scanner entrada= new Scanner(System.in);
         int numero =0, n ;
